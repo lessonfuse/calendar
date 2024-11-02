@@ -25,6 +25,10 @@ The iCalendar format is compatible with several popular calendar applications, i
 
 Calendars are organized in folders by year. The latest calendars are stored in the current branch, while older calendars are moved to branches named after the respective years.
 
+- [2023](https://github.com/lessonfuse/calendar/tree/2023)
+- [2024](https://github.com/lessonfuse/calendar/tree/2024)
+- [2025](https://github.com/lessonfuse/calendar/tree/2025)
+
 ## Contribution
 
 If you notice any errors in the calendars or want to add a new one, you can contribute by creating a pull request.
